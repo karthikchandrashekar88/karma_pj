@@ -1,0 +1,20 @@
+{
+  "name": "pitbull",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "karthik.c <karthik.c@lnttechservices.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "karma": "^0.4.6"
+  }
+}
